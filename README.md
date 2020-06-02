@@ -1,2 +1,2 @@
 # Projetos
-Projetos desenvolvidos a pedido de clientes
+Projetos feito em conjunto ou desenvolvidos a pedido de clientes.
